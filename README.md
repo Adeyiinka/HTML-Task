@@ -23,9 +23,9 @@ You will have to upload this project to github .. Yea.
         |
         --------:::index.html:::<br>
         |
-	      --------:::style.css:::<br>
+	--------:::style.css:::<br>
         |
-	      --------:::script.js:::<br>
+	--------:::script.js:::<br>
 </pre>
 </body>
 </html>
