@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 <html>
-	<head>
-	</head>
+<head>
+</head>
 <body>
 <h1>First Web Page</h1>
 <p>Kindly do exactly what you see here as it would affect you score
